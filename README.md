@@ -28,9 +28,9 @@ For this project we created a [movie website](https://moviemodel.herokuapp.com/m
 
 **Creators Section:** This sections schowcases all of the contributers of the project as well as a link to their gitub account.
 
-![Chris](https://github.com/chrischristensen21/Four-Decades-of-Film-A-Movie-Machine-Learning-Model/blob/main/Images/Creators%20Section%20-%20Chris.png)
-
 ![Jordan](https://github.com/chrischristensen21/Four-Decades-of-Film-A-Movie-Machine-Learning-Model/blob/main/Images/Creators%20Section%20-%20Jordan.png)
+
+![Chris](https://github.com/chrischristensen21/Four-Decades-of-Film-A-Movie-Machine-Learning-Model/blob/main/Images/Creators%20Section%20-%20Chris.png)
 
 ![Kyle](https://github.com/chrischristensen21/Four-Decades-of-Film-A-Movie-Machine-Learning-Model/blob/main/Images/Creators%20Section%20-%20Kyle.png)
 
