@@ -1,7 +1,5 @@
 # Four Decades of Film: A Movie Machine Learning Model
 
-![image](https://user-images.githubusercontent.com/83102597/145463544-72a5838a-6fb2-4bdc-ab9b-d787ceebc3d4.png)
-
 ## Background
 
 For this project we created a [website] (https://moviemodel.herokuapp.com/m) that contains over 40 years of movie data to explore and also contains a machine learing model that allows users to predict the gross earnings of a hypothetical movie scenarios based on the writer, star actor, genre, budget and runtime. There are 6 section the user can scroll through which are as follows: About, Model, Director, Movie, Star, and Creators.
