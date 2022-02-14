@@ -2,7 +2,7 @@
 
 ## About
 
-For this project we created a [movie website](https://moviemodel.herokuapp.com/m) that contains over 40 years of movie data to explore and also contains a machine learing model that allows users to predict the gross earnings of a hypothetical movie scenarios based on the writer, star actor, genre, budget and runtime. There are 6 section the user can scroll through which are as follows: About, Model, Director, Movie, Star, and Creators.
+For this project we created a [movie website](https://moviemodel.herokuapp.com/m) that contains over 40 years of movie data to explore and also contains a machine learing model that allows users to predict the gross earnings of a hypothetical movie scenarios based on the writer, star actor, genre, budget and runtime. The data was cleaned using python pandas. The machine learning model was created using Python with a random forest regressor from the Scikit-learn library. The visualizations were created using tableau and embedded into the site. A flask application was created and deployed via heroku.
 
 ## Website Layout
 
