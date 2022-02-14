@@ -6,27 +6,27 @@ For this project we created a [movie website](https://moviemodel.herokuapp.com/m
 
 ## Website Layout
 
-**About Section** This Sections contains a brief explanation of the the project and how it was created.
+**About Section:** This Sections contains a brief explanation of the the project and how it was created.
 
 ![About Section](https://github.com/chrischristensen21/Four-Decades-of-Film-A-Movie-Machine-Learning-Model/blob/main/Images/About%20Section.png)
 
-**Model Section** This section containes the machine learning model that predicts the gross earnings of hypothetical movie scenarios.
+**Model Section:** This section containes the machine learning model that predicts the gross earnings of hypothetical movie scenarios.
 
 ![Model Section](https://github.com/chrischristensen21/Four-Decades-of-Film-A-Movie-Machine-Learning-Model/blob/main/Images/Model%20Section.png)
 
-**Director Section** This sections allows you to explore and visualize data related to movie directors from the last 40 years .
+**Director Section:** This sections allows you to explore and visualize data related to movie directors from the last 40 years .
 
 ![Director Section](https://github.com/chrischristensen21/Four-Decades-of-Film-A-Movie-Machine-Learning-Model/blob/main/Images/Director%20Section.png)
 
-**Movie Section** This sections allows you to explore and visualize data related to 40 years of movies.
+**Movie Section:** This sections allows you to explore and visualize data related to 40 years of movies.
 
 ![Movie Section](https://github.com/chrischristensen21/Four-Decades-of-Film-A-Movie-Machine-Learning-Model/blob/main/Images/Movie%20Section.png)
 
-**Star Section** This sections allows you to explore and visualize data related to the star actors or actresses in 40 years of filmaking.
+**Star Section:** This sections allows you to explore and visualize data related to the star actors or actresses in 40 years of filmaking.
 
 ![Star Section](https://github.com/chrischristensen21/Four-Decades-of-Film-A-Movie-Machine-Learning-Model/blob/main/Images/Star%20Section.png)
 
-**Creators Section** This sections schowcases all of the contributers of the project as well as a link to their gitub account.
+**Creators Section:** This sections schowcases all of the contributers of the project as well as a link to their gitub account.
 
 ![Chris](https://github.com/chrischristensen21/Four-Decades-of-Film-A-Movie-Machine-Learning-Model/blob/main/Images/Creators%20Section%20-%20Chris.png)
 
