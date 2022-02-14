@@ -1,4 +1,4 @@
-# Four Decades of Film: A Movie Machine Learning Model
+# Four Decades of Film: A Movie Data Visualization Website and Hypothetical Movie Gross Earnings Predictor
 
 ## Background
 
